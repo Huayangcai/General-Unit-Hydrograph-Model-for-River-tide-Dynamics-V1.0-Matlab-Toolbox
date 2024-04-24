@@ -20,7 +20,7 @@ Email contacts: caihy7@mail.sysu.edu.cn
 
 How to cite:
 
-- Bo Li, Huayang Cai, Gaojin Li, Jing Liu, Zhenyan She, Yajun Wang, Suying Ou, Feng Liu, Tongtiegang Zhao, Kairong Lin (2024), A general unit hydrograph theory for water level and tidal range distributions in the Modaomen Estuary, China, Coastal Engineering, submitted.
+- Bo Li, Huayang Cai, Gaojin Li, Jing Liu, Zhenyan She, Yajun Wang, Suying Ou, Feng Liu, Tongtiegang Zhao, Kairong Lin (2024), A general unit hydrograph theory for water level and tidal range distributions in the Modaomen Estuary, China, Journal of Hydrology, submitted.
 
 How to use General Unit Hydrograph Model for River-tide Dynamics 
 
